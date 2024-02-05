@@ -6,6 +6,12 @@
 <!-- Grafico -->
 ![Abatrack GitHub stats](https://github-readme-stats.vercel.app/api?username=Abatrack&show_icons=true&theme=dark)
 
+Não é nada profissional, mais aqui são algumas Skills que estou aprendendo e gostando me brincar!
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div><br>
+
 <!-- Gif -->
 ![Gif](https://github.com/Abatrack/Abatrack/assets/64752116/af6d635e-57a5-4bdd-b244-cfbf5fda8e20)
 
