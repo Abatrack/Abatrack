@@ -2,7 +2,7 @@
 
 <!-- Animação de apresentação, caso queira mudar a mensagem de exibição altere as informações em lines= se atentando a não utilizar espaço e sim o sinal de + -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome!+👋;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome!+👋;" />
 </h1>
 
 <!-- Frase de explicação -->
@@ -51,6 +51,6 @@ Não é nada profissional, mais aqui são algumas Skills que estou aprendendo e 
 
 <!-- Animação de agradecimento -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=⚡Obrigado+pela+atenção!⚡;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=6000&lines=⚡Obrigado+pela+atenção!⚡;" />
 </h1>
 
