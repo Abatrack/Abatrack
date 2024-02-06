@@ -1,4 +1,6 @@
-<!-- Animação de apresentação -->
+<!-- Vou deixar esse README Explicadinho, caso tenha interesse em algo daqui sinta-se avontade -->
+
+<!-- Animação de apresentação, caso queira mudar a mensagem de exibição altere as informações em lines= se atentando a não utilizar espaço e sim o sinal de + -->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome!+👋;" />
 </h1>
@@ -13,23 +15,20 @@ Aqui, tento demonstrar um pouco do que aprendi relacionado a Programação e Ban
 <!-- TAGs de Whats, LinkedIn e Insta 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562991557759)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://wa.me/5562991557759](https://www.linkedin.com/in/wallas-oliveira-carvalho-91679018a/))[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallas_carvalho19/) -->
 
-<!-- Grafico -->
+<!-- Grafico, para mostrar as informações de seu Git altere em source a opção username= -->
 <div align="center" >
-  <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Abatrack&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abatrack&show_icons=true" />
 </picture>
 </div>
 
 <br>
 
+<!-- Frase de Skills -->
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
 <div align="center"> 
@@ -38,7 +37,7 @@ Não é nada profissional, mais aqui são algumas Skills que estou aprendendo e 
 
 <br>
 
-<!-- Skills, para acesso ao GIT com as imagens https://github.com/tandpfun/skill-icons#readme -->
+<!-- Skills, para acesso ao GIT com mais icones segue link https://github.com/tandpfun/skill-icons#readme -->
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=vscode,js,mysql,sqlite,postgres,firebase" />
 </div>
