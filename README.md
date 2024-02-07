@@ -12,8 +12,16 @@ Aqui, tento demonstrar um pouco do que aprendi relacionado a Programação e Ban
 
 <br>
 
-<!-- TAGs de Whats, LinkedIn e Insta 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562991557759)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://wa.me/5562991557759](https://www.linkedin.com/in/wallas-oliveira-carvalho-91679018a/))[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallas_carvalho19/) -->
+<!-- TAGs com links -->
+<div align="center">  
+  <a href="https://instagram.com/wallas_carvalho19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/Abatrack" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/abatrack" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wallas-19@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wallas-oliveira-carvalho-91679018a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br>
 
 <!-- Grafico, para mostrar as informações de seu Git altere em source a opção username= -->
 <div align="center" >
@@ -44,15 +52,6 @@ Não é nada profissional, mais aqui são algumas Skills que estou aprendendo e 
 
 <br>
 
+<!-- Gif -->
 ![Mario (1)](https://github.com/Abatrack/Abatrack/assets/64752116/bb56a603-7f28-42c4-bcb2-bb8bc3d79bc9)
-
-<!-- Gif
-![Gif](https://github.com/Abatrack/Abatrack/assets/64752116/af6d635e-57a5-4bdd-b244-cfbf5fda8e20)
- -->
-<br>
-
-<!-- Animação de agradecimento -->
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=3000&lines=⚡Obrigado+pela+atenção!⚡;" />
-</h1>
 
