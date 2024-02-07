@@ -2,7 +2,7 @@
 
 <!-- Animação de apresentação, caso queira mudar a mensagem de exibição altere as informações em lines= se atentando a não utilizar espaço e sim o sinal de + -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome!+👋;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Bem+Vindo!+👋;" />
 </h1>
 
 <!-- Frase de explicação -->
@@ -44,13 +44,15 @@ Não é nada profissional, mais aqui são algumas Skills que estou aprendendo e 
 
 <br>
 
-<!-- Gif -->
-![Gif](https://github.com/Abatrack/Abatrack/assets/64752116/af6d635e-57a5-4bdd-b244-cfbf5fda8e20)
+![Mario (1)](https://github.com/Abatrack/Abatrack/assets/64752116/bb56a603-7f28-42c4-bcb2-bb8bc3d79bc9)
 
+<!-- Gif
+![Gif](https://github.com/Abatrack/Abatrack/assets/64752116/af6d635e-57a5-4bdd-b244-cfbf5fda8e20)
+ -->
 <br>
 
 <!-- Animação de agradecimento -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=6000&lines=⚡Obrigado+pela+atenção!⚡;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Cursive&size=35&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=3000&lines=⚡Obrigado+pela+atenção!⚡;" />
 </h1>
 
